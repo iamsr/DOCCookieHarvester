@@ -3,7 +3,7 @@
 // @namespace    https://dropoclock.io/
 // @updateURL    https://github.com/FoonkG/DOCCookieHarvester.git/DocCookieHarvester.js
 // @downloadURL  https://github.com/FoonkG/DOCCookieHarvester.git/DocCookieHarvester.js
-// @version      0.1.11
+// @version      0.0.1
 // @description  Drop o' Clock Cookie Harvester, harvests cookies from Yeezysupply.
 // @author       Original = Ryan, Modified for Drop o' Clock = FoonkG
 // @include      *yeezysupply*
