@@ -16,65 +16,7 @@
 	'use strict';
 
 	const SITE_TO_URL = {
-		/* US footsites */
-		footaction: 'https://www.footaction.com',
-		eastbay: 'https://www.eastbay.com',
-		footlocker: 'https://www.footlocker.com',
-		champssports: 'https://www.champssports.com',
-		footlockerca: 'https://www.footlocker.ca',
-		kidsfootlocker: 'https://www.kidsfootlocker.com',
-		converse: 'https://www.converse.com',
-		/* eu */
-		footlockeruk: 'https://www.footlocker.co.uk',
-		footlockerno: 'https://www.footlocker.no',
-		footlockerse: 'https://www.footlocker.se',
-		footlockerdk: 'https://www.footlocker.dk',
-		footlockersg: 'https://www.footlocker.sg',
-		footlockermy: 'https://www.footlocker.my',
-		footlockerhk: 'https://www.footlocker.hk',
-		footlockerfr: 'https://www.footlocker.fr',
-		footlockerde: 'https://www.footlocker.de',
-		footlockerlu: 'https://www.footlocker.lu',
-		footlockerbe: 'https://www.footlocker.be',
-		footlockernl: 'https://www.footlocker.nl',
-		footlockerit: 'https://www.footlocker.it',
-		footlockeres: 'https://www.footlocker.es',
-		/* Adidas sites */
-		'adidas-us': 'https://www.adidas.com',
-		'adidas-gb': 'https://www.adidas.co.uk',
-		'adidas-fr': 'https://www.adidas.fr',
-		'adidas-au': 'https://www.adidas.com.au',
-		'adidas-de': 'https://www.adidas.de',
-		'adidas-es': 'https://www.adidas.es',
-		'adidas-it': 'https://www.adidas.it',
-		'adidas-nz': 'https://www.adidas.co.nz',
-		'adidas-mx': 'https://www.adidas.mx',
-		'adidas-ru': 'https://www.adidas.ru',
-		'adidas-se': 'https://www.adidas.se',
-		'adidas-sg': 'https://www.adidas.com.sg',
-		'adidas-at': 'https://www.adidas.at',
-		'adidas-be': 'https://www.adidas.be',
-		'adidas-br': 'https://www.adidas.com.br',
-		'adidas-cz': 'https://www.adidas.cz',
-		'adidas-dk': 'https://www.adidas.dk',
-		'adidas-fi': 'https://www.adidas.fi',
-		'adidas-ph': 'https://www.adidas.com.ph',
-		'adidas-pl': 'https://www.adidas.pl',
-		'adidas-my': 'https://www.adidas.com.my',
-		'adidas-sk': 'https://www.adidas.sk',
-		'adidas-ch': 'https://www.adidas.ch',
-		'adidas-ca': 'https://www.adidas.ca',
-		'adidas-nl': 'https://www.adidas.nl',
 		'yeezysupply-dw': 'https://www.yeezysupply.com',
-		/* Dicks */
-		dicks: 'https://www.dickssportinggoods.com',
-		/* Mesh */
-		size: 'https://www.size.co.uk',
-		footpatrol: 'https://www.footpatrol.com',
-		// 'jdsports': 'https://www.jdsports.co.uk',
-		// 'thehipstore': 'https://www.thehipstore.co.uk',
-		/* FNL */
-		finishline: 'https://www.finishline.com'
 	};
 
 	// flip and simplify urls
