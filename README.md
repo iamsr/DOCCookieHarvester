@@ -1,9 +1,9 @@
 # DOC Cookie Harvester
 > Harvest cookies as an addition to the Drop O' Clock browser bot.
 
-> Original dev => Ryan from Destroyer Bots.
+> Original dev => [Ryan](https://github.com/rpappa) from Destroyer Bots.
 
-> Modified by me (FoonkG) for Drop O' Clock.
+> Modified by me ([FoonkG](https://github.com/FoonkG)) for Drop O' Clock.
 ---
 
 ## How to install
