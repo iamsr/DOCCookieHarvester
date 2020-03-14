@@ -968,7 +968,7 @@
 		const dataStr = 'data:text/json;charset=utf-8,' + encodeURIComponent(data);
 		let anchor = document.getElementById('saveCookieJarDoc-dl-anchor');
 		anchor.setAttribute('href', dataStr);
-		anchor.setAttribute('download', `cookies_${Date.now()}.json`);
+		anchor.setAttribute('download', `cookies.json`);
 		anchor.click();
 		dontRefresh = false;
 	}
