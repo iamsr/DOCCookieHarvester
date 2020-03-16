@@ -936,7 +936,7 @@
 			console.log(e.key);
 			if (e.key === 'S') {
 				dontRefresh = true;
-				document.getElementById('cookiePanelDoc').style.border = 'red';
+				document.getElementById('cookiePanelDoc').style.border = '3px solid red';
 			} else if (e.key === 'C') {
 				dontRefresh = false;
 				document.getElementById('cookiePanelDoc').style.border =
